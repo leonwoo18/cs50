@@ -1,0 +1,48 @@
+00:01:22 - C
+00:07:07 - CS50 Sandbox           在线IDE：cs50沙盒（云linux）
+00:08:53 - hello.c
+00:10:22 - Compilation                汇编
+
+00:19:48 - Command-Line Arguments     clang终端的命令行参数
+
+00:21:50 - User Input            用户输入
+00:22:53 - get_string  
+
+00:24:03 - Variables                  变量answer
+00:25:45 - printf                     printf（f格式化）
+
+00:31:33 - string.c                   导入其他库，并link起来
+00:36:13 - make                      linux工具：编译+链接
+
+00:41:11 - Incrementing              自增
+
+00:44:57 - Conditionals    条件语句->if语句
+00:49:53 - While Loops               while循环
+00:53:27 - For Loops                 for循环
+
+00:55:09 - CS50 Library    cs50库提供的函数
+
+中场休息
+
+
+00:57:32 - int.c           整数   get_int
+01:02:39 - float.c         浮点数  get_float
+
+01:05:19 - parity.c        模运算(取余)-->if (n % 2 == 0)为偶数
+01:08:43 - conditions.c    //注释
+01:12:34 - agree.c         指定目录下文件的编译、||或运算
+
+01:15:10 - cough0.c
+01:16:55 - cough1.c        函数调用
+01:22:59 - cough3.c        函数参数化
+
+01:25:02 - positive.c      do_while循环
+
+01:27:45 - mario0.c   马里奥-直接打印
+01:28:56 - mario2.c   马里奥-dowhile获得n，打印n个
+01:30:04 - mario8.c   马里奥-双层for循环
+
+01:33:52 - Limitations in Computation  计算机是有限制的（RAM存储空间有限）
+01:35:00 - floats.c         1/10=0.1000000001490453000000000（小数点后的位数有限）-->存储最接近的匹配项
+01:38:42 - overflow.c       2^x 最终等于0（指数增长到存储位数存储不下）如：999可以存，1000只能存后三位000
+01:40:35 - Integer Overflow   波音公司

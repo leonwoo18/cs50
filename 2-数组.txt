@@ -1,0 +1,50 @@
+00:00:00 - Introduction
+00:01:22 - Weeks 0 and 1 Recap    要点重述
+
+00:06:30 - Preprocessing   预处理（include头文件改成source code需要调用到的函数）
+00:07:26 - Compilation     编译（翻译成汇编语言）
+00:08:55 - Assembling      汇编（组装成0，1）
+           Linking         链接（所有0，1文件，链接起来）
+		   
+		   
+00:09:17 - Debugging
+00:11:31 - name
+00:12:43 - buggy0.c
+00:14:36 - buggy1.c
+00:16:46 - buggy2.c
+00:19:54 - CS50 IDE
+00:21:18 - Debugging Tools   IDE自带（一步一步执行）
+           check 50、style 50
+
+
+00:35:30 - Arrays          数组
+00:37:00 - Data Types      数据类型
+00:37:42 - RAM             内存
+
+00:39:59 - hi.c            类型转化
+00:45:19 - scores.c        重复的、一样的数据类型-->引入数组
+                           全局变量
+						   动态编码（非硬编码）
+
+						   
+中场休息
+
+						   
+01:09:40 - String          字符串（一维数组）
+01:11:28 - Null Terminator   空终止符\0
+01:13:19 - names.c         字符串数组（二维数组）
+
+01:21:39 - string.c        以char输出，\0时停止
+                           以char输出，到string的长度时停止
+						   
+01:27:43 - uppercase.c      底层细节、库文件
+
+01:31:55 - CS50 Programmer's Manual (man.cs50.io) cs50使用手册
+
+01:34:56 - Command Line Arguments      可执行文件入口参数
+01:37:14 - argv.c                      main函数参数
+
+01:40:06 - exit.c               main函数返回值
+
+01:43:36 - Readability        可读性
+01:45:26 - Cryptography       密码学

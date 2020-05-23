@@ -1,0 +1,46 @@
+00:00:00 - Introduction
+00:01:22 - Weeks 2 Recap         回顾上周
+
+00:02:46 - Algorithms Demo
+00:04:05 - Algorithms Demo (Linear Search)   
+00:06:14 - Algorithms Demo (Binary Search)
+00:08:34 - Linear Search 线性查找：从左到右一步一步找
+00:09:44 - Binary Search 二进制查找：折半查找
+
+
+00:11:02 - Efficiency                 效率
+00:14:03 - Big O and Omega Notation 算法复杂度
+         最坏情况      最好情况
+
+00:18:39 - numbers.c    线性查找
+00:21:11 - names.c      字符串对比，strcmp（）函数
+
+00:26:14 - phonebook.c     两个数组同步一个变量i-->引出自定义变量
+00:31:40 - typedef (phonebook.c)    关键字typedef（自定义数据类型）
+                                    typedef + struct封装信息
+
+									
+									
+									
+00:37:21 - Sorting Demo
+00:43:45 - Bubble Sort            冒泡排序
+00:48:08 - Selection Sort         选择排序----------------------------------------------------
+00:56:45 - Algorithm Running Times   可视化网站
+
+
+中场休息
+   
+   
+01:01:56 - Elections       选举（投票）
+
+01:03:38 - Recursion       递归
+01:06:13 - iteration.c    （马里奥）迭代--->靠自己，所有砖块全部循环出来
+01:10:28 - recursion.c    （马里奥）递归--->靠别人，自己解决一部分问题，把规模变小的问题丢给别人做
+                                            疯狂调用自身函数
+											
+
+01:17:10 - Merge Sort         归并排序O（nlogn）
+
+01:26:18 - Theta Notation     介于最好情况与最坏情况之间
+
+01:27:06 - Random (Visualization)  三个排序的可视化比较
